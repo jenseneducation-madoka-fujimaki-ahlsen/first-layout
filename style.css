@@ -1,0 +1,40 @@
+header {
+  background: rgb(136, 136, 255);
+  height: 200px;
+}
+
+nav {
+  background-color: bisque;
+  height: 100px;
+}
+
+.container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.section1 {
+  width: 40%;
+  background-color: aqua;
+}
+
+.section2 {
+  width: 60%;
+  background-color: blueviolet;
+  padding: 30px;
+}
+
+footer {
+  background-color: brown;
+  height: 100px;
+}
+
+p,
+footer,
+header {
+  text-align: center;
+}
